@@ -1,5 +1,5 @@
 # Neovim Configuration
-![](htps://cdn.discordapp.com/attachments/826683941053399091/975777529443016764/ss_nvim.JPG){width=width height=height}
+![htps://cdn.discordapp.com/attachments/826683941053399091/975777529443016764/ss_nvim.JPG](htps://cdn.discordapp.com/attachments/826683941053399091/975777529443016764/ss_nvim.JPG){width=width height=height}
 ## Features
 
 - vim-airline
